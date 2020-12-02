@@ -1,16 +1,21 @@
-# chat
+# Prodex Chat 
 
-A new Flutter project.
+Prodex chat to aplikacja chatu która pomaga nauczyć sie Flutter'a i Dart`a z przykładem działającego kodu.
 
-## Getting Started
+# Get Started (zaczynaj)
 
-This project is a starting point for a Flutter application.
+### Wymagania stępne 
 
-A few resources to get you started if this is your first Flutter project:
+Aby korzystać z tego projektu musisz zainstalować:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+- Android Studio razem z Android SDK 
+- Najnowszy Flutter SDK
+- Wybrany edytor kodu (Android Studio, Intelij IDEA, Visual Studio) oraz wtyczki do wybranego edytora kodu 
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+ ### Informacje dotyczące instalacji i konfiuracji znajdziesz na: 
+
+ - [https://flutter.dev/docs/get-started/install](https://flutter.dev/docs/get-started/install)
+
+ - [https://flutter.dev/docs/get-started/editor](https://flutter.dev/docs/get-started/editor)
+ 
+
