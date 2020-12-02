@@ -18,4 +18,24 @@ Aby korzystać z tego projektu musisz zainstalować:
 
  - [https://flutter.dev/docs/get-started/editor](https://flutter.dev/docs/get-started/editor)
  
+ ### Pobieranie i konfigurowanie projektu
+
+ #### Pobieranie z git 
+
+! Musisz mieć zainstalowany git w swoim systemie ! 
+
+Użyj komendy w swoim wierszu poleceń :
+```powershell 
+ git clone https://github.com/Prodex-sa/Prodex-Chat.git 
+ ```
+
+ #### Konfigurowanie projektu 
+ Przejdź do katalogu projektu i następnie użyj tego polecenia:
+
+ ```powershell
+ flutter create .
+ ```
+ To powyższe polecenie skonfiguruje i utworzy potrzebne pliki w twoim projekcie 
+
+
 
